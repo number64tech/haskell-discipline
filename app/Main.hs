@@ -1,6 +1,6 @@
 module Main where
 
-import Lib
+import Coord
 
 main :: IO ()
 main = someFunc
