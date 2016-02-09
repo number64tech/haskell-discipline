@@ -2,12 +2,12 @@ name:                haskell-discipline
 version:             0.1.0.0
 synopsis:            Initial project template from stack
 description:         Please see README.md
-homepage:            http://github.com/githubuser/haskell-discipline#readme
+homepage:            http://github.com/number64tech/haskell-discipline#readme
 license:             BSD3
 license-file:        LICENSE
-author:              Author name here
+author:              TODOROKI Daisuke
 maintainer:          example@example.com
-copyright:           2010 Author Here
+copyright:           2016 TODOROKI Daisuke
 category:            Web
 build-type:          Simple
 -- extra-source-files:
@@ -38,4 +38,4 @@ test-suite hd-test
 
 source-repository head
   type:     git
-  location: https://github.com/githubuser/haskell-discipline
+  location: https://github.com/number64tech/haskell-discipline
